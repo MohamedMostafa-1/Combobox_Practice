@@ -20,28 +20,24 @@ namespace Combox_Practice
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            if (comboBox1.SelectedIndex == 0)
+          switch (cmbPictures.SelectedIndex.ToString().ToLower())
             {
-                pictureBox1.Image = Resources.Boy;
-                lblTitel.Text = "Boy";
-            }
-
-            if (comboBox1.SelectedIndex == 1)
-            {
-                pictureBox1.Image = Resources.Girl;
-                lblTitel.Text = "Girl";
-            }
-
-            if (comboBox1.SelectedIndex == 2)
-            {
-                pictureBox1.Image = Resources.Book;
-                lblTitel.Text = "Book";
-            }
-
-            if (comboBox1.SelectedIndex == 3)
-            {
-                pictureBox1.Image = Resources.Pen;
-                lblTitel.Text = "Pen";
+                case "boy":
+                    pictureBox1.Image = Resources.Boy;
+                    lblTitel.Text = "Boy";
+                    break;
+                case "Girl":
+                    pictureBox1.Image = Resources.Girl;
+                    lblTitel.Text = "Girl";
+                    break;
+                case "Book":
+                    pictureBox1.Image = Resources.Book;
+                    lblTitel.Text = "Book";
+                    break;
+                case "Pen":
+                    pictureBox1.Image = Resources.Pen;
+                    lblTitel.Text = "Pen";
+                    break;
             }
             
            
