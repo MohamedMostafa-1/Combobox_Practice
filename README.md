@@ -1,4 +1,4 @@
-# PictureBox Practice 🖼️
+# ComboBox Practice 🖼️
 
 A simple **C# Windows Forms** project for practicing how to use the **PictureBox** and **ComboBox** controls and handle selection events.
 
