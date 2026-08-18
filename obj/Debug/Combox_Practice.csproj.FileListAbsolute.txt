@@ -1,0 +1,10 @@
+C:\Users\Aio\source\repos\Combox_Practice\bin\Debug\Combox_Practice.exe.config
+C:\Users\Aio\source\repos\Combox_Practice\bin\Debug\Combox_Practice.exe
+C:\Users\Aio\source\repos\Combox_Practice\bin\Debug\Combox_Practice.pdb
+C:\Users\Aio\source\repos\Combox_Practice\obj\Debug\Combox_Practice.csproj.AssemblyReference.cache
+C:\Users\Aio\source\repos\Combox_Practice\obj\Debug\Combox_Practice.Form1.resources
+C:\Users\Aio\source\repos\Combox_Practice\obj\Debug\Combox_Practice.Properties.Resources.resources
+C:\Users\Aio\source\repos\Combox_Practice\obj\Debug\Combox_Practice.csproj.GenerateResource.cache
+C:\Users\Aio\source\repos\Combox_Practice\obj\Debug\Combox_Practice.csproj.CoreCompileInputs.cache
+C:\Users\Aio\source\repos\Combox_Practice\obj\Debug\Combox_Practice.exe
+C:\Users\Aio\source\repos\Combox_Practice\obj\Debug\Combox_Practice.pdb
